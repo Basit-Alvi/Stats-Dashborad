@@ -1,0 +1,11 @@
+Job_Title,Company,Location,Salary_USD,Experience_Level,Remote,Skills,Year
+AI Engineer,Google,USA,150000,Senior,Yes,"Python,ML,TensorFlow",2024
+Data Scientist,Microsoft,USA,140000,Mid,Yes,"Python,Pandas,ML",2024
+ML Engineer,Amazon,USA,145000,Senior,No,"Python,PyTorch,Deep Learning",2024
+AI Researcher,OpenAI,USA,180000,Senior,Yes,"Python,NLP,Transformers",2024
+Data Analyst,Meta,USA,110000,Junior,Yes,"SQL,Excel,Python",2024
+AI Engineer,Tesla,USA,155000,Mid,No,"Python,Computer Vision",2024
+ML Engineer,Nvidia,USA,160000,Senior,Yes,"CUDA,Deep Learning",2024
+Data Scientist,IBM,USA,130000,Mid,Yes,"Python,Statistics",2024
+AI Specialist,Apple,USA,170000,Senior,No,"Swift,ML,AI",2024
+Data Analyst,Netflix,USA,120000,Junior,Yes,"SQL,Python",2024
