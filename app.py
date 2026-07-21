@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Title
+# Title.
 st.title("📊 AI Stats Dashboard")
 
 # File Upload
